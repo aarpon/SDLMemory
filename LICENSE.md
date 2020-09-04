@@ -1,0 +1,1 @@
+SDLMemory is released under the terms of the [GNU General Public License version 2](https://opensource.org/licenses/gpl-2.0.php).
